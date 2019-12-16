@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103884" started-at="2019-12-15T09:03:22Z" finished-at="2019-12-15T09:05:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103884" started-at="2019-12-15T09:03:22Z" finished-at="2019-12-15T09:05:06Z">
+      <class name="com.appium.testScripts.TC001_VerifyCalculatorPageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="beforeMethod" is-config="true" duration-ms="16" started-at="2019-12-15T14:33:22Z" finished-at="2019-12-15T14:33:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.testScripts.TC001_VerifyCalculatorPageTest.verifyAdditionOperationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLaunch()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="testLaunch" is-config="true" duration-ms="21605" started-at="2019-12-15T14:33:22Z" finished-at="2019-12-15T14:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLaunch -->
+        <test-method status="PASS" signature="verifyAdditionOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="verifyAdditionOperationTest" duration-ms="3820" started-at="2019-12-15T14:33:44Z" finished-at="2019-12-15T14:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdditionOperationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-15T14:33:48Z" finished-at="2019-12-15T14:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAdditionOperationTest status=SUCCESS method=TC001_VerifyCalculatorPageTest.verifyAdditionOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-12-15T14:33:48Z" finished-at="2019-12-15T14:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.testScripts.TC001_VerifyCalculatorPageTest.verifyDivisionOperationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLaunch()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="testLaunch" is-config="true" duration-ms="21018" started-at="2019-12-15T14:33:48Z" finished-at="2019-12-15T14:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLaunch -->
+        <test-method status="PASS" signature="verifyDivisionOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="verifyDivisionOperationTest" duration-ms="4660" started-at="2019-12-15T14:34:09Z" finished-at="2019-12-15T14:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDivisionOperationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-12-15T14:34:14Z" finished-at="2019-12-15T14:34:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDivisionOperationTest status=SUCCESS method=TC001_VerifyCalculatorPageTest.verifyDivisionOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-12-15T14:34:14Z" finished-at="2019-12-15T14:34:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.testScripts.TC001_VerifyCalculatorPageTest.verifyMultiplicationOperationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLaunch()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="testLaunch" is-config="true" duration-ms="21135" started-at="2019-12-15T14:34:14Z" finished-at="2019-12-15T14:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLaunch -->
+        <test-method status="PASS" signature="verifyMultiplicationOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="verifyMultiplicationOperationTest" duration-ms="4070" started-at="2019-12-15T14:34:35Z" finished-at="2019-12-15T14:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultiplicationOperationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-12-15T14:34:39Z" finished-at="2019-12-15T14:34:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMultiplicationOperationTest status=SUCCESS method=TC001_VerifyCalculatorPageTest.verifyMultiplicationOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-15T14:34:39Z" finished-at="2019-12-15T14:34:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.testScripts.TC001_VerifyCalculatorPageTest.verifySubtractOperationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLaunch()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="testLaunch" is-config="true" duration-ms="21173" started-at="2019-12-15T14:34:39Z" finished-at="2019-12-15T14:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLaunch -->
+        <test-method status="PASS" signature="verifySubtractOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="verifySubtractOperationTest" duration-ms="4540" started-at="2019-12-15T14:35:00Z" finished-at="2019-12-15T14:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubtractOperationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-15T14:35:04Z" finished-at="2019-12-15T14:35:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySubtractOperationTest status=SUCCESS method=TC001_VerifyCalculatorPageTest.verifySubtractOperationTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.appium.testScripts.TC001_VerifyCalculatorPageTest@20322d26]" name="endTest" is-config="true" duration-ms="1813" started-at="2019-12-15T14:35:04Z" finished-at="2019-12-15T14:35:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.appium.testScripts.TC001_VerifyCalculatorPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

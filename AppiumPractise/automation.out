@@ -1,0 +1,193 @@
+2019-12-14 09:27:26 INFO  TestBase:84 - Mobile App closed
+2019-12-14 09:35:11 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 09:35:11 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-14 09:35:15 INFO  CalculatorPageObjects:94 - Addition of two numbers test Finished
+2019-12-14 09:35:36 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 09:35:36 INFO  CalculatorPageObjects:122 - Division of two numbers test Started
+2019-12-14 09:36:04 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 09:36:04 INFO  CalculatorPageObjects:110 - Multiplication of two numbers test Started
+2019-12-14 09:36:08 INFO  CalculatorPageObjects:118 - Multiplication of two numbers test Finished
+2019-12-14 09:36:29 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 09:36:29 INFO  CalculatorPageObjects:98 - Subtraction of two numbers test Started
+2019-12-14 09:36:33 INFO  CalculatorPageObjects:106 - Subtraction of two numbers test Finished
+2019-12-14 09:36:34 INFO  TestBase:85 - Mobile App closed
+2019-12-14 17:01:31 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 17:01:32 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-14 17:01:36 INFO  CalculatorPageObjects:94 - Addition of two numbers test Finished
+2019-12-14 17:01:59 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 17:01:59 INFO  CalculatorPageObjects:122 - Division of two numbers test Started
+2019-12-14 17:02:26 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 17:02:26 INFO  CalculatorPageObjects:110 - Multiplication of two numbers test Started
+2019-12-14 17:02:30 INFO  CalculatorPageObjects:118 - Multiplication of two numbers test Finished
+2019-12-14 17:02:51 INFO  TestBase:75 - App Launched in Mobile Emulator
+2019-12-14 17:02:51 INFO  CalculatorPageObjects:98 - Subtraction of two numbers test Started
+2019-12-14 17:02:55 INFO  CalculatorPageObjects:106 - Subtraction of two numbers test Finished
+2019-12-14 17:02:56 INFO  TestBase:85 - Mobile App closed
+2019-12-14 17:20:13 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:20:13 INFO  TC001_VerifyCalculatorPageTest:21 - ******AdditionOperationTest Started *********
+2019-12-14 17:20:13 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-14 17:20:14 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_1})
+2019-12-14 17:20:14 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_add})
+2019-12-14 17:20:15 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_4})
+2019-12-14 17:20:16 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:20:17 INFO  TestBase:167 - The Text of the Element is : 5
+2019-12-14 17:20:17 INFO  CalculatorPageObjects:92 - Addition of two numbers test Finished
+2019-12-14 17:20:17 INFO  TC001_VerifyCalculatorPageTest:24 - ******AdditionOperationTest Finished *********
+2019-12-14 17:20:39 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:20:39 INFO  TC001_VerifyCalculatorPageTest:45 - ******DivisionOperationTest Started *********
+2019-12-14 17:20:39 INFO  CalculatorPageObjects:116 - Division of two numbers test Started
+2019-12-14 17:20:39 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:20:40 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:20:41 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_div})
+2019-12-14 17:20:42 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:20:42 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:20:43 INFO  TestBase:167 - The Text of the Element is : 19
+2019-12-14 17:20:43 INFO  CalculatorPageObjects:123 - Division of two numbers test Finished
+2019-12-14 17:20:43 INFO  TC001_VerifyCalculatorPageTest:48 - ******DivisionOperationTest Finished *********
+2019-12-14 17:21:04 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:21:04 INFO  TC001_VerifyCalculatorPageTest:37 - ******MultiplicationOperationTest Started *********
+2019-12-14 17:21:04 INFO  CalculatorPageObjects:106 - Multiplication of two numbers test Started
+2019-12-14 17:21:05 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:21:06 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_mul})
+2019-12-14 17:21:07 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:21:07 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:21:09 INFO  TestBase:167 - The Text of the Element is : 45
+2019-12-14 17:21:09 INFO  CalculatorPageObjects:112 - Multiplication of two numbers test Finished
+2019-12-14 17:21:09 INFO  TC001_VerifyCalculatorPageTest:40 - ******MultiplicationOperationTest Finished *********
+2019-12-14 17:21:30 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:21:30 INFO  TC001_VerifyCalculatorPageTest:29 - ******SubtractOperationTest Started *********
+2019-12-14 17:21:30 INFO  CalculatorPageObjects:96 - Subtraction of two numbers test Started
+2019-12-14 17:21:31 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:21:32 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_sub})
+2019-12-14 17:21:32 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:21:33 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:21:34 INFO  TestBase:167 - The Text of the Element is : 4
+2019-12-14 17:21:34 INFO  CalculatorPageObjects:102 - Subtraction of two numbers test Finished
+2019-12-14 17:21:34 INFO  TC001_VerifyCalculatorPageTest:32 - ******SubtractOperationTest Finished *********
+2019-12-14 17:21:35 INFO  TestBase:87 - Mobile App closed
+2019-12-14 17:52:19 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:52:19 INFO  TC001_VerifyCalculatorPageTest:21 - ******AdditionOperationTest Started *********
+2019-12-14 17:52:19 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-14 17:52:20 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_1})
+2019-12-14 17:52:20 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_add})
+2019-12-14 17:52:21 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_4})
+2019-12-14 17:52:22 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:52:23 INFO  TestBase:166 - The Text of the Element is : 5
+2019-12-14 17:52:23 INFO  CalculatorPageObjects:92 - Addition of two numbers test Finished
+2019-12-14 17:52:23 INFO  TC001_VerifyCalculatorPageTest:24 - ******AdditionOperationTest Finished *********
+2019-12-14 17:52:46 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:52:46 INFO  TC001_VerifyCalculatorPageTest:45 - ******DivisionOperationTest Started *********
+2019-12-14 17:52:46 INFO  CalculatorPageObjects:116 - Division of two numbers test Started
+2019-12-14 17:52:47 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:52:47 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:52:48 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_div})
+2019-12-14 17:52:49 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:52:49 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:52:50 INFO  TestBase:166 - The Text of the Element is : 19
+2019-12-14 17:52:50 INFO  CalculatorPageObjects:123 - Division of two numbers test Finished
+2019-12-14 17:52:50 INFO  TC001_VerifyCalculatorPageTest:48 - ******DivisionOperationTest Finished *********
+2019-12-14 17:53:12 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:53:12 INFO  TC001_VerifyCalculatorPageTest:37 - ******MultiplicationOperationTest Started *********
+2019-12-14 17:53:12 INFO  CalculatorPageObjects:106 - Multiplication of two numbers test Started
+2019-12-14 17:53:13 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:53:13 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_mul})
+2019-12-14 17:53:14 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:53:15 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:53:16 INFO  TestBase:166 - The Text of the Element is : 45
+2019-12-14 17:53:16 INFO  CalculatorPageObjects:112 - Multiplication of two numbers test Finished
+2019-12-14 17:53:16 INFO  TC001_VerifyCalculatorPageTest:40 - ******MultiplicationOperationTest Finished *********
+2019-12-14 17:53:37 INFO  TestBase:77 - App Launched in Mobile Emulator
+2019-12-14 17:53:37 INFO  TC001_VerifyCalculatorPageTest:29 - ******SubtractOperationTest Started *********
+2019-12-14 17:53:37 INFO  CalculatorPageObjects:96 - Subtraction of two numbers test Started
+2019-12-14 17:53:38 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-14 17:53:39 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_sub})
+2019-12-14 17:53:40 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-14 17:53:40 INFO  TestBase:147 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-14 17:53:41 INFO  TestBase:166 - The Text of the Element is : 4
+2019-12-14 17:53:41 INFO  CalculatorPageObjects:102 - Subtraction of two numbers test Finished
+2019-12-14 17:53:41 INFO  TC001_VerifyCalculatorPageTest:32 - ******SubtractOperationTest Finished *********
+2019-12-14 17:53:43 INFO  TestBase:87 - Mobile App closed
+2019-12-15 14:31:05 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:31:05 INFO  TC001_VerifyCalculatorPageTest:21 - ******AdditionOperationTest Started *********
+2019-12-15 14:31:06 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-15 14:31:07 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_1})
+2019-12-15 14:31:07 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_add})
+2019-12-15 14:31:08 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_4})
+2019-12-15 14:31:09 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:31:10 INFO  TestBase:168 - The Text of the Element is : 5
+2019-12-15 14:31:10 INFO  CalculatorPageObjects:92 - Addition of two numbers test Finished
+2019-12-15 14:31:10 INFO  TC001_VerifyCalculatorPageTest:24 - ******AdditionOperationTest Finished *********
+2019-12-15 14:31:33 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:31:33 INFO  TC001_VerifyCalculatorPageTest:45 - ******DivisionOperationTest Started *********
+2019-12-15 14:31:33 INFO  CalculatorPageObjects:116 - Division of two numbers test Started
+2019-12-15 14:31:34 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:31:35 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:31:35 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_div})
+2019-12-15 14:31:36 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:31:37 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:31:38 INFO  TestBase:168 - The Text of the Element is : 19
+2019-12-15 14:31:38 INFO  CalculatorPageObjects:123 - Division of two numbers test Finished
+2019-12-15 14:31:38 INFO  TC001_VerifyCalculatorPageTest:48 - ******DivisionOperationTest Finished *********
+2019-12-15 14:31:59 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:31:59 INFO  TC001_VerifyCalculatorPageTest:37 - ******MultiplicationOperationTest Started *********
+2019-12-15 14:31:59 INFO  CalculatorPageObjects:106 - Multiplication of two numbers test Started
+2019-12-15 14:32:00 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:32:01 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_mul})
+2019-12-15 14:32:02 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:32:03 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:32:04 INFO  TestBase:168 - The Text of the Element is : 45
+2019-12-15 14:32:04 INFO  CalculatorPageObjects:112 - Multiplication of two numbers test Finished
+2019-12-15 14:32:04 INFO  TC001_VerifyCalculatorPageTest:40 - ******MultiplicationOperationTest Finished *********
+2019-12-15 14:32:25 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:32:25 INFO  TC001_VerifyCalculatorPageTest:29 - ******SubtractOperationTest Started *********
+2019-12-15 14:32:25 INFO  CalculatorPageObjects:96 - Subtraction of two numbers test Started
+2019-12-15 14:32:26 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:32:27 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_sub})
+2019-12-15 14:32:27 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:32:28 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:32:29 INFO  TestBase:168 - The Text of the Element is : 4
+2019-12-15 14:32:29 INFO  CalculatorPageObjects:102 - Subtraction of two numbers test Finished
+2019-12-15 14:32:29 INFO  TC001_VerifyCalculatorPageTest:32 - ******SubtractOperationTest Finished *********
+2019-12-15 14:32:30 INFO  TestBase:88 - Mobile App closed
+2019-12-15 14:33:44 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:33:44 INFO  TC001_VerifyCalculatorPageTest:21 - ******AdditionOperationTest Started *********
+2019-12-15 14:33:44 INFO  CalculatorPageObjects:86 - Addition of two numbers test Started
+2019-12-15 14:33:45 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_1})
+2019-12-15 14:33:45 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_add})
+2019-12-15 14:33:46 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_4})
+2019-12-15 14:33:47 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:33:48 INFO  TestBase:168 - The Text of the Element is : 5
+2019-12-15 14:33:48 INFO  CalculatorPageObjects:92 - Addition of two numbers test Finished
+2019-12-15 14:33:48 INFO  TC001_VerifyCalculatorPageTest:24 - ******AdditionOperationTest Finished *********
+2019-12-15 14:34:09 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:34:09 INFO  TC001_VerifyCalculatorPageTest:45 - ******DivisionOperationTest Started *********
+2019-12-15 14:34:09 INFO  CalculatorPageObjects:116 - Division of two numbers test Started
+2019-12-15 14:34:10 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:34:11 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:34:11 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_div})
+2019-12-15 14:34:12 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:34:12 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:34:14 INFO  TestBase:168 - The Text of the Element is : 19
+2019-12-15 14:34:14 INFO  CalculatorPageObjects:123 - Division of two numbers test Finished
+2019-12-15 14:34:14 INFO  TC001_VerifyCalculatorPageTest:48 - ******DivisionOperationTest Finished *********
+2019-12-15 14:34:35 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:34:35 INFO  TC001_VerifyCalculatorPageTest:37 - ******MultiplicationOperationTest Started *********
+2019-12-15 14:34:35 INFO  CalculatorPageObjects:106 - Multiplication of two numbers test Started
+2019-12-15 14:34:36 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:34:36 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_mul})
+2019-12-15 14:34:37 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:34:38 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:34:39 INFO  TestBase:168 - The Text of the Element is : 45
+2019-12-15 14:34:39 INFO  CalculatorPageObjects:112 - Multiplication of two numbers test Finished
+2019-12-15 14:34:39 INFO  TC001_VerifyCalculatorPageTest:40 - ******MultiplicationOperationTest Finished *********
+2019-12-15 14:35:00 INFO  TestBase:78 - App Launched in Mobile Emulator
+2019-12-15 14:35:00 INFO  TC001_VerifyCalculatorPageTest:29 - ******SubtractOperationTest Started *********
+2019-12-15 14:35:00 INFO  CalculatorPageObjects:96 - Subtraction of two numbers test Started
+2019-12-15 14:35:01 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_9})
+2019-12-15 14:35:02 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/op_sub})
+2019-12-15 14:35:03 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/digit_5})
+2019-12-15 14:35:03 INFO  TestBase:148 - To Perform Click Operation on : Located by By.chained({By.id: com.android.calculator2:id/eq})
+2019-12-15 14:35:04 INFO  TestBase:168 - The Text of the Element is : 4
+2019-12-15 14:35:04 INFO  CalculatorPageObjects:102 - Subtraction of two numbers test Finished
+2019-12-15 14:35:04 INFO  TC001_VerifyCalculatorPageTest:32 - ******SubtractOperationTest Finished *********
+2019-12-15 14:35:06 INFO  TestBase:88 - Mobile App closed
